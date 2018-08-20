@@ -1,2 +1,2 @@
 # gitskills
-learn clon
+learn clone
